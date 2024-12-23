@@ -1,7 +1,6 @@
 ﻿using Raylib_cs;
 using static Raylib_cs.Raylib;
 
-// initial configuration
 public class RaylibGame
 {
     public static int Main()
